@@ -2,6 +2,8 @@ import React, { useState } from 'react'
 import AddCategory from './AddCategory';
 import GifGrid from './GifGrid';
 
+/* test comment */
+
 const GifExpertApp = () => {
 
     const [categorias, setCategorias] = useState(['Techno']);
